@@ -15,7 +15,7 @@ var slimjim = "meat"
 //firstDecimal = slimjim
 
 //:  Finally, declare a variable with a whole number value. Then try to assign it to `firstDecimal`. Why won't this compile even though both variables are numbers? Print a statement to the console explaining why not, and remove the line of code that will not compile.
-s
+
 
 /*:
 [Previous](@previous)  |  page 7 of 10  |  [Next: App Exercise - Tracking Different Types](@next)
